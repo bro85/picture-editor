@@ -1,0 +1,617 @@
+{
+  "address": {
+    "contactCenter": "Контакт-центр",
+    "country": "Украина",
+    "fax": "ф.",
+    "location": "ул. Крещатик, 22, г. Киев"
+  },
+
+  "button": {
+    "choose": "Выбрать",
+    "confirm": "Подтвердить",
+    "continue": "Далее",
+    "pay": "Оплатить",
+    "remove": "Удалить",
+    "edit": "Редактировать",
+    "inputFile": {
+      "forAllStamps": "Прикрепить изображение ( на все марки )",
+      "forImage": "Прикрепить изображение"
+    }
+  },
+
+  "cropperPic": {
+    "advice": "<p>Коснитесь или перетащите элементы управления, чтобы правильно разместить и отформатировать изображение.</p>",
+    "changeSize": "Изменение размера",
+    "move": "Переместить",
+    "rotation": "Вращение"
+  },
+
+  "currency": {
+    "uah": "грн"
+  },
+
+  "headerMenu": {
+    "business": {
+      "href": "https://www.ukrposhta.ua/ru/ukrposhta-dlia-biznesu",
+      "text": "Бизнесу"
+    },
+    "career": {
+      "href": "https://www.ukrposhta.ua/ru/vacancies/",
+      "text": "Карьера"
+    },
+    "departments": {
+      "href": "https://offices.ukrposhta.ua",
+      "text": "Отделения"
+    },
+    "mainPage": {
+      "href": "https://www.ukrposhta.ua/ru",
+      "text": "Главная"
+    },
+    "philately": {
+      "title": "Филателия",
+      "column1": {
+        "link1": {
+          "href": "https://postmark.ukrposhta.ua/",
+          "text": "Почтовый маркет"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ru/informatsiia-dlia-pokuptsiv",
+          "text": "Информация для покупателей"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ru/tematychni-plany-vypusku-produktsii",
+          "text": "Тематический план выпуска филателистической продукции"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ru/filatelistychnyi-abonement",
+          "text": "Филателистический абонемент"
+        }
+      },
+      "column2": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ru/spetsialni-poshtovi-shtempeli-postiinoi-dii",
+          "text": "Специальные почтовые штемпели постоянного действия"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ru/zhurnal-filateliia-ukrainy",
+          "text": "Журнал «Филателия Украины»"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ru/filatelistichni-vistavky",
+          "text": "Филателистические выставки"
+        }
+      },
+      "column3": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ru/vlasna-marka",
+          "text": "Проект<br>«Власна<br>марка»\n <span class=\"block-link\">Подробнее</span>"
+        }
+      }
+    },
+    "services": {
+      "title": "Услуги",
+      "column1": {
+        "title": "Почтовые услуги",
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ru/ekspres",
+          "text": "Укрпошта Экспресс"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ru/standart",
+          "text": "Укрпошта Стандарт"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ru/dokumenty",
+          "text": "Укрпошта Документы"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ru/mizhnarodni-vidpravlennia",
+          "text": "Доставка за границу"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/ru/dostavka-v-ukrainu",
+          "text": "Доставка в Украину"
+        },
+        "link6": {
+          "href": "https://www.ukrposhta.ua/ru/mytne-oformlennia",
+          "text": "Таможенно-брокерские услуги"
+        },
+        "link7": {
+          "href": "https://www.ukrposhta.ua/ru/vidpravlennia-masoiu-ponad-30-kh",
+          "text": "Отправления массой более 30 кг"
+        },
+        "link8": {
+          "href": "https://www.ukrposhta.ua/ru/lyst-poshtova-kartka",
+          "text": "Письмо, открытка"
+        },
+        "link9": {
+          "href": "https://www.ukrposhta.ua/ru/banderol",
+          "text": "Бандероль"
+        },
+        "link10": {
+          "href": "http://services.ukrposhta.com/courier",
+          "text": "Курьерская доставка"
+        },
+        "link11": {
+          "href": "https://www.ukrposhta.ua/ru/upakuvannia",
+          "text": "Упаковка"
+        },
+        "link12": {
+          "href": "https://www.ukrposhta.ua/ru/dostavku-z-internet-mahazyniv-vidnovleno",
+          "text": "Доставка из интернет-магазинов"
+        },
+        "link13": {
+          "href": "https://www.ukrposhta.ua/ru/sezon-ogorodiv",
+          "text": "Доставка товаров для огорода"
+        },
+        "link14": {
+          "href": "https://www.ukrposhta.ua/ru/dostavka-likiv",
+          "text": "Доставка лекарств"
+        }
+      },
+      "column2": {
+        "title": "Сервисы",
+        "link1": {
+          "href": "https://calc.ukrposhta.ua",
+          "text": "Рассчитать стоимость"
+        },
+        "link2": {
+          "href": "https://ok.ukrposhta.ua/ru",
+          "text": "Онлайн оформление посылок"
+        },
+        "link3": {
+          "href": "https://index.ukrposhta.ua/find-post-index",
+          "text": "Поиск индекса"
+        },
+        "link4": {
+          "href": "https://index.ukrposhta.ua/find-address",
+          "text": "Поиск адреса"
+        },
+        "link5": {
+          "href": "https://offices.ukrposhta.ua",
+          "text": "Поиск отделений"
+        },
+        "link6": {
+          "href": "https://track.ukrposhta.ua/tracking_RU.html",
+          "text": "Трекинг"
+        },
+        "link7": {
+          "href": "https://www.ukrposhta.ua/ru/poshtomaty",
+          "text": "Выдача через почтоматы"
+        }
+      },
+      "column3": {
+        "title": "Финансовые услуги",
+        "link1": {
+          "href": "https://www.ukrposhta.ua/perekaz-z-kartki-dodomu/",
+          "text": "Перевод с карты с получением наличных «C карты домой»"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/perekaz-z-kartki-dodomu/",
+          "text": "Перевод с карты с получением наличных «С карты до отделения»"
+        },
+        "link3": {
+          "href": "https://ukrposhta.ukrcard.com.ua/",
+          "text": "Перевод с карты на карту"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ru/hroshovyi-perekaz-z-kartok-bankiv-yevropy",
+          "text": "Перевод с карт банков Европы"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/ru/mizhnarodnyi-poshtovyi-perekaz",
+          "text": "Международные почтовые переводы"
+        },
+        "link6": {
+          "href": "https://www.ukrposhta.ua/ru/poshtovi-perekazy-v-mezhakh-ukrainy",
+          "text": "Внутренние почтовые переводы"
+        },
+        "link7": {
+          "href": "https://www.ukrposhta.ua/ru/mizhnarodni-platizhni-systemy",
+          "text": "Международные платежные системы"
+        },
+        "link8": {
+          "href": "https://www.ukrposhta.ua/ru/vnutrishnoderzhavni-platizhni-systemy",
+          "text": "Национальные платежные системы"
+        },
+        "link9": {
+          "href": "https://www.ukrposhta.ua/ru/oplata-onlain",
+          "text": "Оплата услуг онлайн"
+        },
+        "link10": {
+          "href": "https://www.ukrposhta.ua/ru/platezhi",
+          "text": "Оплата услуг в отделении"
+        },
+        "link11": {
+          "href": "https://www.ukrposhta.ua/ru/pensii",
+          "text": "Пенсии"
+        },
+        "link12": {
+          "href": "https://www.ukrposhta.ua/ru/vydacha-hotivky-cherez-pos-terminal",
+          "text": "Выдача наличных и пополнение платежных карт через POS-терминал"
+        },
+        "link13": {
+          "href": "https://www.ukrposhta.ua/ru/strakhuvannia",
+          "text": "Страховые услуги"
+        }
+      },
+      "column4": {
+        "title": "Другие услуги",
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ru/onlain-servisy",
+          "text": "Онлайн-сервисы"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ru/periodychni-vydannia",
+          "text": "Периодические издания"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ru/dlia-vydavtsiv",
+          "text": "Для издателей"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ru/forma-zvorotnoho-zviazku",
+          "text": "Обратная связь по подписке"
+        },
+        "link5": {
+          "href": "https://perekaz.ukrposhta.com/message1.php?request=iframe",
+          "text": "Электронное сообщение"
+        },
+        "link6": {
+          "href": "https://www.ukrposhta.ua/ru/sekohrama",
+          "text": "Секограмма"
+        },
+        "link7": {
+          "href": "https://www.ukrposhta.ua/ru/vlasna-marka",
+          "text": "Проект «Власна марка»"
+        }
+      }
+    },
+    "tariffs": {
+      "title": "Тарифы",
+      "column1": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-ukrposhta-ekspres",
+          "text": "Укрпошта Экспресс"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-ukrposhta-standart",
+          "text": "Укрпошта Стандарт"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-ukrposhta-dokumenty",
+          "text": "Укрпошта Документы"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-mizhnarodni-vidpravlennia",
+          "text": "Доставка за границу"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-mizhnarodni-vidpravlennia-posylky",
+          "text": "Доставка за границу (посилки)"
+        }
+      },
+      "column2": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-na-vidpravlennia-ems",
+          "text": "Отправления EMS"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-vidpravlennia-v",
+          "text": "Крупногабаритные или тяжеловесные отправления"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-masovyi-kurierskyi-zabir-abo-dostavka",
+          "text": "Массовый курьерский забор или доставка"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-literni-poshtovi-marky",
+          "text": "Номинальная стоимость почтовых марок"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-vlasna-poshtova-produktsiia",
+          "text": "Проект «Власна марка»"
+        },
+        "link6": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-na-pryimannia-ta-dostavku-vydan-za-peredplatoiu",
+          "text": "Прием и доставка изданий по предоплате"
+        }
+      },
+      "column3": {
+        "link1": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-presa-poshtoiu",
+          "text": "Пресса почтой"
+        },
+        "link2": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-universalni-posluhy",
+          "text": "Универсальные услуги"
+        },
+        "link3": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-inshi-posluhy",
+          "text": "Другие услуги"
+        },
+        "link4": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-poshtovi-perekazy",
+          "text": "Денежные переводы"
+        },
+        "link5": {
+          "href": "https://www.ukrposhta.ua/ru/taryfy-na-suputni-posluhy-pry-ekspedyruvanni-periodychnykh-vydan",
+          "text": "Сопутствующие услуги при экспедировании периодических изданий"
+        }
+      }
+    },
+    "tracking": {
+      "href": "https://track.ukrposhta.ua/tracking_RU.html",
+      "text": "Трекинг"
+    }
+  },
+
+  "links": {
+    "UPGallery": "Галерея Укрпочты"
+  },
+
+  "mainPage": {
+    "title": "Собственная марка. Заказ"
+  },
+
+  "popup": {
+    "orderInfo": {
+      "branchIndex": "Индекс отделения: {{params}}.",
+      "details": "Подробности:",
+      "deliveryRegisteredLetter": "заказное письмо.",
+      "deliverySelfPickup": "самовывоз.",
+      "deliveryTypeTitle": "Тип доставки:",
+      "orderNumber": "Номер заказа:",
+      "title": "Ваш заказ принят!",
+      "totalCost": "Общая стоимость: {{params}} грн."
+    }
+  },
+
+  "profile": {
+    "login": "Вход",
+    "registration": "Регистрация"
+  },
+
+  "steps": {
+    "step1": {
+      "title": {
+        "default": "Выбрать шаблон",
+        "active": "Шаблон"
+      },
+      "results": {
+        "envelope": {
+          "totalStamps": "Собственный конверт.",
+          "costPerItem": "Стоимость: {{params}} грн."
+        },
+        "postcard": {
+          "totalStamps": "Собственная открытка.",
+          "costPerItem": "Стоимость: {{params}} грн."
+        },
+        "stamps6": {
+          "totalStamps": "В листе: 6 марок.",
+          "costPerItem": "Стоимость: {{params}} грн."
+        },
+        "stamps9": {
+          "totalStamps": "В листе: 9 марок.",
+          "costPerItem": "Стоимость: {{params}} грн."
+        },
+        "stamps28": {
+          "totalStamps": "В листе: 28 марок.",
+          "costPerItem": "Стоимость: {{params}} грн."
+        },
+        "stamps28Difference": {
+          "totalStamps": "В листе: 28 марок.",
+          "costPerItem": "Стоимость: {{params}} грн."
+        }
+      }
+    },
+    "step2": {
+      "checkbox": "Я подтверждаю свою ответственность за предоставленное изображение в соответствии с законодательством Украины, в том числе за нарушение авторских и смежных прав.",
+      "extension": "Расширение: 300 dpi (точка на дюйм).",
+      "format": "Формат файла: doc, docx, rtf, txt, odt, pdf (10 Mб максимум).",
+      "pageCost": "Стоимость листа",
+      "results": {
+        "envelope": {
+          "amount": "Количество конвертов: {{params}}шт.",
+          "price": "Стоимость: {{params}} грн."
+        },
+        "postcard": {
+          "amount": "Количество открыток: {{params}}шт.",
+          "price": "Стоимость: {{params}} грн."
+        },
+        "stamps6": {
+          "amount": "Количество листов: {{params}}шт.",
+          "price": "Стоимость: {{params}} грн."
+        },
+        "stamps9": {
+          "amount": "Количество листов: {{params}}шт.",
+          "price": "Стоимость: {{params}} грн."
+        },
+        "stamps28": {
+          "amount": "Количество листов: {{params}}шт.",
+          "price": "Стоимость: {{params}} грн."
+        },
+        "stamps28Difference": {
+          "amount": "Количество листов: {{params}}шт.",
+          "price": "Стоимость: {{params}} грн."
+        }
+      },
+      "title": {
+        "active": {
+          "envelope": "Изображение. Количество изображений – 1",
+          "postcard": "Изображение. Количество изображений – 1.",
+          "stamps6": "Изображение. Количество изображений – от 2 до 7.",
+          "stamps9": "Изображение. Количество изображений – от 2 до 10.",
+          "stamps28": "Изображение. Количество изображений – 1.",
+          "stamps28Difference": "Изображение. Количество изображений – от 2 до 28."
+        },
+        "default": "Изображение"
+      },
+      "totalCost": "Общая стоимость",
+      "totalPages": "Всего листов",
+      "totalStamps": "Всего марок:"
+    },
+    "step3": {
+      "title": {
+        "default": "Оформление доставки",
+        "active": "Оформление доставки"
+      }
+    },
+    "step4": {
+      "title": {
+        "default": "Оплата",
+        "active": ""
+      }
+    }
+  },
+
+  "templates": [
+    {
+      "title": "Лист из 6 марок",
+      "papers": "В листе: 6 марок",
+      "priceSingle": "Стоимость: 9,00 грн",
+      "priceTotal": "240 грн"
+    },
+    {
+      "title": "Лист из 9 марок",
+      "papers": "В листе: 9 марок",
+      "priceSingle": "Стоимость: 9,00 грн",
+      "priceTotal": "240 грн"
+    },
+    {
+      "title": "Лист из 28 марок (одно изображение)",
+      "papers": "В листе: 28 марок",
+      "priceSingle": "Стоимость: 9,00 грн",
+      "priceTotal": "408 грн"
+    },
+    {
+      "title": "Лист из 28 марок (разные изображения)",
+      "papers": "В листе: 28 марок",
+      "priceSingle": "Стоимость: 9,00 грн",
+      "priceTotal": "510 грн"
+    },
+    {
+      "title": "Собственный конверт",
+      "priceTotal": "15 грн"
+    },
+    {
+      "title": "Собственный конверт",
+      "priceTotal": "15 грн"
+    },
+    {
+      "title": "Собственная открытка",
+      "priceTotal": "20 грн"
+    }
+  ],
+
+  "footer": {
+    "copyright": "Укрпошта. Все права защищены.",
+    "policy": "<a href=\"https://ukrposhta.ua/ua/polityka-konfidentsiinosti\" target=\"_blank\">Политика конфиденциальности</a>"
+  },
+
+  "footerMenu": {
+
+    "column1": {
+      "title": "Общая информация",
+      "items": [
+        "Про Укрпошту",
+        "Наблюдательный совет",
+        "Руководство",
+        "Дирекции",
+        "Публичная информация",
+        "Закупки",
+        "Продажа и аренда недвижимости",
+        "Противодействие коррупции",
+        "Конфиденциальность",
+        "Для представителей СМИ",
+        "Новости",
+        "Акции",
+        "Контакт-центр"
+      ]
+    },
+
+    "column2": {
+      "title": "Почтовые услуги",
+      "items": [
+        "Укрпошта Экспресс",
+        "Укрпошта Стандарт",
+        "Укрпошта Документы",
+        "Доставка за границу",
+        "Доставка в Украину",
+        "Отправления массой более 30 кг",
+        "Курьерская доставка",
+        "Рассчитать стоимость",
+        "Выдача через почтоматы"
+      ]
+    },
+
+    "column3": {
+      "title": "Финансовые услуги",
+      "items": [
+        "Перевод «C карты домой»",
+        "Перевод «С карты в отделение»",
+        "Перевод «С карты на карту»",
+        "Перевод с карт банков Европы",
+        "Международные почтовые переводы",
+        "Внутренние почтовые переводы",
+        "Оплата услуг онлайн",
+        "Оплата услуг в отделении",
+        "Страховые услуги"
+      ]
+    },
+
+    "column4": {
+      "title": "Другое",
+      "items": [
+        "Онлайн-сервисы",
+        "Подписка онлайн",
+        "Почтовый маркет",
+        "Проект «Власна марка»",
+        "Периодические издания",
+        "Для издателей",
+        "Электронное сообщение",
+        "Секограмма",
+        "Найти индекс",
+        "Поиск адреса",
+        "Найти отделение",
+        "Справка",
+        "API от Укрпошты"
+      ]
+    }
+
+  },
+
+  "form": {
+    "checkBox": {
+      "procedureForUsing": "Соглашаюсь с <a href='#' target='_blank'>порядком</a> пользования Услугой"
+    },
+    "field": {
+      "apartmentNumber": "Квартира",
+      "district": "Район",
+      "houseNumber": "Дом",
+      "index": "Индекс",
+      "locality": "Населенный пункт",
+      "name": "Имя",
+      "patronymic": "Отчество",
+      "region": "Область",
+      "registeredLetter": "Рекомендуемое письмо",
+      "selfPickup": "Самовывоз",
+      "street": "Улица",
+      "surname": "Фамилия"
+    },
+    "text": {
+      "deliveryCost": "Стоимость доставки",
+      "orderCost": "Стоимость заказа",
+      "totalCost": "Общая стоимость"
+    },
+    "title": {
+      "addresses": "Адрес",
+      "branchIndex": "Индекс отделения",
+      "deliveryMethod": "Способ доставки",
+      "email": "Email",
+      "fullName": "ФИО",
+      "phoneNumber": "Телефонный номер"
+    }
+  }
+
+}
